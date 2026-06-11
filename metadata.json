@@ -1,0 +1,6 @@
+{
+  "name": "Radar Concursos",
+  "description": "Gerenciador completo de inscrições de concursos públicos, controle de status, calendário de provas, alertas, mapa interativo e painel financeiro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
